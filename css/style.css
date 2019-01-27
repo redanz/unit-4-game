@@ -1,0 +1,46 @@
+#number {
+	margin-top: 10px;
+	height: 100px;
+	width: 100px;
+	background-color: teal;
+}
+
+
+#randomNum {
+	position: absolute;
+	left: 50%;
+	top: 55px;
+	transform: translate(-50%, -50%);
+	text-decoration-style: bold;
+}
+
+
+.container {
+	margin: auto;
+  	width: 50%;
+  	padding: 10px;
+}
+
+#imagediv {
+	width: 268px;
+}
+
+#score-text {
+	background-color: yellow;
+	margin-bottom: 5px;
+	width: 180px;
+}
+
+#score {
+	background-color: yellow;
+	width: 180px;
+
+}
+
+#stats {
+	background-color: gray;
+}
+
+
+
+
