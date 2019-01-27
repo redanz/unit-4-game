@@ -1,3 +1,4 @@
+
 #number {
 	margin-top: 10px;
 	height: 100px;
@@ -9,7 +10,7 @@
 #randomNum {
 	position: absolute;
 	left: 50%;
-	top: 55px;
+	top: 70px;
 	transform: translate(-50%, -50%);
 	text-decoration-style: bold;
 }
@@ -22,7 +23,22 @@
 }
 
 #imagediv {
-	width: 268px;
+	width: 276px;
+}
+
+#round-result {
+	color: blue;
+}
+
+.updates-text {
+	background-color: yellow;
+	margin-bottom: 5px;
+	height: 44px;
+	width: 180px;
+}
+
+.results {
+	width: 200px;
 }
 
 #score-text {
@@ -31,14 +47,18 @@
 	width: 180px;
 }
 
+
+
 #score {
 	background-color: yellow;
+	margin-bottom: 5px;
 	width: 180px;
 
 }
 
 #stats {
 	background-color: gray;
+	width: 400px;
 }
 
 
